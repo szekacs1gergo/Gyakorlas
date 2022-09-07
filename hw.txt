@@ -1,0 +1,18 @@
+A PHP mely verziója fut az Ön gépén?
+PHP/8.1.6
+Hol található az aktuális PHP konfigurációs fájl? (Loaded Configuration File) 
+D:\xampp\php\php.ini
+Van-e lehetőség a szerveren a rövid PHP nyitótag (<?php helyett <?) használatára? (short_open_tag)
+Off
+Mennyi egy PHP program maximális futási ideje? (max_execution_time)
+120
+Mi az alapértelmezett időzóna beállítás? (Default timezone)
+Europe/Berlin
+Maximálisan mennyi ideig tartja nyilván a szerver az adott munkamenetet? (session.gc_maxlifetime)
+1440
+Engedélyezve van-e a fájlfeltöltés weblapon keresztül? (file_uploads)
+On
+Mekkora a feltölthető fájlok maximális fájlmérete? (upload_max_filesize)
+40M
+Engedélyezve van-e a grafikus függvények használata, lehet-e rajzolni a PHP-val? (GD Support)
+nem
